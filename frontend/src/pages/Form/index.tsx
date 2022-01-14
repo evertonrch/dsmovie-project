@@ -37,7 +37,7 @@ function Form() {
             </button>
           </div>
         </form>
-        <button className="btn btn-primary dsmovie-btn mt-3">Cancelar</button>
+        <button className="btn btn-danger dsmovie-btn mt-3">Cancelar</button>
       </div>
     </div>
   );
